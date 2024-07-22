@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Bhanot</h1>
 <h3 align="center">AI, ML, & Fintech Enthusiast</h3>
 
+- 🔭 I’m currently working on **Loan Default Prediction Modal**
+
+- 🌱 I’m currently learning **PyTorch and BlockChain**
+
 - 📫 How to reach me **hvbhanot1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
