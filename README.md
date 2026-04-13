@@ -1,75 +1,63 @@
-<h1 align="center">Harsh Vardhan Bhanot</h1>
-<p align="center">
-  <b>AI Systems • ML Research • Scientific Computing</b>
-</p>
-
-<p align="center">
-  CS @ TAMU-CC • Applied Math Minor • Incoming MS CS @ Texas Tech
-</p>
+<h1 align="center">Hi 👋, I'm Harsh Vardhan Bhanot</h1>
+<h3 align="center">AI Researcher • Agentic LLMs • Edge AI Systems</h3>
 
 ---
 
-## What I Do
+### 🚀 About Me
+- 🎓 Undergraduate Computer Science student (AI focus)
+- 🔬 Undergraduate Research Assistant working on **AI + computational systems**
+- 🤖 Building **agentic LLM systems** for autonomous reasoning and security tasks
+- 🧠 Interested in **multi-agent AI, edge inference, and AI systems engineering**
+- 🎯 Long-term goal: Graduate research in **AI systems and autonomous agents**
 
-I build AI systems, research tooling, and reproducible infrastructure.
-
-Current areas of work:
-- Fine-tuning coding models for **SLiM / Eidos**
-- Building **local multi-agent systems** with **Ollama**
-- Developing **CTF-solving agents** and security tooling
-- Shipping **research pipelines** for scientific computing and ML experiments
 
 ---
 
-## Featured Projects
+### 🔭 Current Work
+- 🧠 **Agentic LLM for Autonomous CTF Solving**  
+  Multi-agent reasoning with planning, tools, and verification loops
 
-### [Professor Tux](https://github.com/hvbhanot)
-AI cybersecurity teaching assistant built with **FastAPI**, **ChromaDB RAG**, and **Ollama**, designed for local deployment on **Jetson Orin Nano**.
+- 🧬 **AI for Evolutionary Simulation**  
+  LLM-assisted scripting and analysis for SLiM-based simulations
 
-### [ctf_agent](https://github.com/hvbhanot)
-Multi-agent CTF solver with planner, domain specialists, verifier, tool wrappers, scratchpad memory, and local-first execution.
 
-### [AI Senate](https://aisenate.pro)
-Multi-model debate and consensus platform where frontier models critique each other and converge on a final answer.
 
-### [SLiM Fine-Tuning Pipeline](https://huggingface.co/hvbhanot)
-Benchmarking and fine-tuning pipeline for LLM-generated **SLiM / Eidos** code, including error correction and LoRA-based adaptation.
 
-### [Neural Network from Scratch](https://github.com/hvbhanot)
-Pure NumPy implementation of a feedforward neural network with hand-derived backpropagation.
+- 🖥️ **Edge AI NAS (Raspberry Pi + NPU)**  
+  Local inference pipelines, self-hosted ML, and privacy-first AI systems
 
 ---
 
-## Stack
+### 🌱 Currently Exploring
+- Advanced **PyTorch systems design**
+- **Multi-agent LLM architectures**
+- Quantization, LoRA, and **efficient local inference**
+- AI systems for **security and autonomous tooling**
 
-**Languages**  
-Python • Go • C++ • Bash • SQL • TypeScript
 
-**AI / ML**  
-PyTorch • Transformers • LoRA • PEFT • Unsloth • TRL • scikit-learn • OpenCV
 
-**Systems**  
-Linux • Docker • FastAPI • REST • JWT • Ollama • Jetson
 
-**Research**  
-SLiM • Eidos • Experiment Tracking • Reproducibility • LaTeX • Statistical Methods
 
 ---
 
-## Education
-
-- **B.S. Computer Science**, Texas A&M University–Corpus Christi  
-  Specialization in Cybersecurity, Minor in Applied Mathematics
-
-- **M.S. Computer Science**, Texas Tech University  
-  Starting Fall 2026
+### 📫 Contact
+- Email: **hvbhanot1@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/hvbhanot/
 
 ---
 
-## Connect
+### 🛠️ Core Stack
+**Languages:** Python, C++, Go  
+**AI/ML:** PyTorch, scikit-learn, OpenCV, Transformers  
+**Systems:** Linux, Git, Docker, self-hosted AI stacks  
+**Data:** Pandas, SQLite  
 
-- **Website:** [hvbhanot.pro](https://hvbhanot.pro)
-- **GitHub:** [@hvbhanot](https://github.com/hvbhanot)
-- **LinkedIn:** [in/hvbhanot](https://linkedin.com/in/hvbhanot)
-- **Hugging Face:** [hvbhanot](https://huggingface.co/hvbhanot)
-- **Email:** hvbhanot1@gmail.com
+
+
+---
+
+### ⚡ Focus Areas
+- Agentic AI systems
+- Autonomous reasoning agents
+- Edge AI + hardware acceleration
+- AI for cybersecurity and scientific simulation
