@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Vardhan+Bhanot;AI+Researcher+%E2%80%A2+Agentic+LLMs;Edge+AI+%26+Autonomous+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harsh+Vardhan+Bhanot;AI+Researcher+%E2%80%A2+Agentic+LLMs+%E2%80%A2+Edge+AI;Incoming+MS+Statistics+%2B+CS+%40+Texas+Tech" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/hvbhanot/">
@@ -23,32 +23,45 @@
 
 I build autonomous LLM systems that plan, use tools, and verify their own work. My focus sits at the intersection of agentic AI, efficient local inference, and AI for security and scientific computing.
 
-- Computer Science undergraduate with an AI and cybersecurity focus
-- Undergraduate Research Assistant working on AI plus computational systems
-- Building multi-agent LLM systems for autonomous reasoning and security tasks
+- Computer Science undergraduate at Texas A&M University Corpus Christi, with a Cybersecurity concentration and an Applied Mathematics minor
+- Incoming graduate student at Texas Tech University, Fall 2026, pursuing two MS degrees in Statistics and Computer Science
+- Founder and Vice President of Islanders Research in AI
 - Long-term goal: graduate research in AI systems and autonomous agents
+
+---
+
+### Education
+
+**Texas Tech University** — MS Statistics and MS Computer Science *(Incoming, Fall 2026)*
+
+**Texas A&M University Corpus Christi** — BS Computer Science, Cybersecurity concentration, Applied Mathematics minor *(2026)*
 
 ---
 
 ### Featured Work
 
-**Agentic LLM for Autonomous CTF Solving**
-Multi-agent architecture with a planner, domain specialists, and a verification loop that validates flags by provenance. Built on a ReAct control flow with tool orchestration and scratchpad memory.
+**SLiM Fine-Tuning Pipeline**
+An end-to-end pipeline that fine-tunes a code model on a large SLiM population-genetics corpus using QLoRA, then evaluates generations with a two-pass producer and critic loop against a held-out benchmark suite.
 
-**AI for Evolutionary Simulation**
-An LLM-assisted pipeline for generating and correcting SLiM population-genetics scripts, including a fine-tuned code model, a producer and critic evaluation pass, and a benchmark prompt suite.
+**CTF-Agent**
+A multi-agent system for autonomous Capture the Flag solving, built around a planner, five domain specialists, and a verifier that validates flags by provenance rather than by guessing. Runs on a ReAct control loop with tool orchestration and scratchpad memory.
 
-**Edge AI Inference Systems**
-Self-hosted, privacy-first inference on constrained hardware. Quantized models, local RAG, and pipelines tuned to run entirely on device.
+**Professor Tux**
+An edge AI cybersecurity teaching assistant deployed on an NVIDIA Jetson Orin Nano. FastAPI and Ollama backend with a ChromaDB retrieval layer and pluggable teaching modes defined in markdown.
+
+**TorchPilot**
+An AutoML framework that automates model selection, hyperparameter search, and training-loop orchestration for PyTorch, cutting manual tuning effort across experiments.
+
+**Neural Network from Scratch**
+A multi-layer neural network written in pure NumPy with no frameworks, reaching 90 percent plus test accuracy using ReLU, softmax, and gradient descent.
 
 ---
 
-### Currently Exploring
+### Experience
 
-- Advanced PyTorch systems design and training internals
-- Multi-agent LLM architectures and coordination patterns
-- Quantization, LoRA, and efficient local inference
-- AI tooling for cybersecurity and autonomous workflows
+- **AI and ML Intern**, DataEssenceAI — built PyTorch prediction models and tuned them for accuracy and training efficiency
+- **Hardware Support Intern**, TAMUCC IT — supported 3,000 plus students and faculty and improved ticket resolution workflows
+- **Founder and Vice President**, Islanders Research in AI — started a campus AI research group and ran workshops for 30 plus members
 
 ---
 
@@ -59,24 +72,25 @@ Self-hosted, privacy-first inference on constrained hardware. Quantized models, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**AI and ML**
+**AI, ML, and Statistics**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Systems and Tooling**
+**Systems, Serving, and Security**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-**Data**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
