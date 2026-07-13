@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harsh+Vardhan+Bhanot;AI+Researcher+%E2%80%A2+Agentic+LLMs+%E2%80%A2+Edge+AI;Incoming+MS+Statistics+%2B+CS+%40+Texas+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harsh+Vardhan+Bhanot;AI+Researcher+%E2%80%A2+Agentic+LLMs;Building+autonomous+systems+that+verify+their+own+work" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/hvbhanot/">
@@ -23,18 +23,10 @@
 
 I build autonomous LLM systems that plan, use tools, and verify their own work. My focus sits at the intersection of agentic AI, efficient local inference, and AI for security and scientific computing.
 
-- Computer Science undergraduate at Texas A&M University Corpus Christi, with a Cybersecurity concentration and an Applied Mathematics minor
-- Incoming graduate student at Texas Tech University, Fall 2026, pursuing two MS degrees in Statistics and Computer Science
 - Founder and Vice President of Islanders Research in AI
-- Long-term goal: graduate research in AI systems and autonomous agents
-
----
-
-### Education
-
-**Texas Tech University** — MS Statistics and MS Computer Science *(Incoming, Fall 2026)*
-
-**Texas A&M University Corpus Christi** — BS Computer Science, Cybersecurity concentration, Applied Mathematics minor *(2026)*
+- Working on multi-agent LLM systems, LoRA fine-tuning, and quantized edge inference
+- Background spanning AI, ML, and cybersecurity, with a focus on systems that run end to end
+- Long-term goal: research in AI systems and autonomous agents
 
 ---
 
@@ -59,9 +51,9 @@ A multi-layer neural network written in pure NumPy with no frameworks, reaching 
 
 ### Experience
 
-- **AI and ML Intern**, DataEssenceAI — built PyTorch prediction models and tuned them for accuracy and training efficiency
-- **Hardware Support Intern**, TAMUCC IT — supported 3,000 plus students and faculty and improved ticket resolution workflows
-- **Founder and Vice President**, Islanders Research in AI — started a campus AI research group and ran workshops for 30 plus members
+- **AI and ML Intern**, DataEssenceAI. Built PyTorch prediction models and tuned them for accuracy and training efficiency
+- **Hardware Support Intern**, TAMUCC IT. Supported 3,000 plus students and faculty and improved ticket resolution workflows
+- **Founder and Vice President**, Islanders Research in AI. Started a campus AI research group and ran workshops for 30 plus members
 
 ---
 
@@ -98,11 +90,6 @@ A multi-layer neural network written in pure NumPy with no frameworks, reaching 
 ### GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hvbhanot&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=808080" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvbhanot&layout=compact&hide_border=true&title_color=6C63FF&text_color=808080" alt="Top Languages" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvbhanot&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="Streak Stats" />
 
