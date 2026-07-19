@@ -9,7 +9,7 @@
   <a href="mailto:hvbhanot1@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://hvbhanot.github.io/">
+  <a href="https://hvbhanot.pro">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=hvbhanot&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
