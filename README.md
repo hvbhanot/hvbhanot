@@ -1,134 +1,117 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harsh+Vardhan+Bhanot;AI+Researcher+%E2%80%A2+Agentic+LLMs;MS+Statistics+%2B+CS+%40+Texas+Tech;Building+autonomous+systems+that+verify+their+own+work" alt="Typing SVG" />
-<p>
-  <a href="https://www.linkedin.com/in/hvbhanot/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=5X0ORB0AAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
-  </a>
-  <a href="https://huggingface.co/hvbhanot">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  </a>
-  <a href="mailto:hvbhanot1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://hvbhanot.pro">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hvbhanot&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<h1 align="center">Harsh Vardhan Bhanot</h1>
+
+<p align="center">
+  <b>AI researcher building agentic LLM systems that plan, act, and verify their own work.</b><br/>
+  MS Statistics + MS Computer Science @ Texas Tech · Section Leader @ Stanford Code in Place
 </p>
-</div>
 
----
+<p align="center">
+  <a href="https://hvbhanot.pro"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=astro&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://scholar.google.com/citations?user=5X0ORB0AAAAJ"><img src="https://img.shields.io/badge/Scholar-111111?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://huggingface.co/hvbhanot"><img src="https://img.shields.io/badge/Hugging_Face-111111?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/></a>
+  <a href="https://www.linkedin.com/in/hvbhanot/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hvbhanot1@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-### About Me
+<br/>
 
-I build autonomous LLM systems that plan, use tools, and verify their own work. My focus sits at the intersection of agentic AI, efficient local inference, and AI for security and scientific computing.
+## Research focus
 
-- Graduate student at **Texas Tech University**, pursuing concurrent MS degrees in **Statistics** and **Computer Science**
-- Section Leader for **Stanford's Code in Place**, teaching a specialized section on probability for AI
-- Sole author of an **IEEE EdgeCom 2026** paper on deploying LLMs on embedded edge devices
-- Working on multi-agent LLM systems, QLoRA fine-tuning and distillation, and quantized edge inference
-- Previously founded and led **Islanders Research in AI**, a campus AI research group at TAMU-CC
-- Long-term goal: research in AI systems and autonomous agents
+**Agentic LLMs** · multi-agent planning, tool use, and self-verification<br/>
+**Efficient inference** · QLoRA fine-tuning, distillation, quantized edge deployment<br/>
+**Applied AI** · cybersecurity automation and scientific computing
 
----
+<br/>
 
-### Publications
+## Publications
 
-- **Running Large Language Models on Embedded Edge Devices: Challenges, Quantization Strategies, and Practical Deployment**
-  H. V. Bhanot. *IEEE EdgeCom 2026* (accepted, regular paper)
-- **Designing Agentic LLMs for Task Solving: A Multi-Agent Cybersecurity CTF Solver**
-  H. V. Bhanot. *Preprints.org*, 2026. [doi:10.20944/preprints202609.1788.v1](https://doi.org/10.20944/preprints202609.1788.v1) (preprint, not peer reviewed)
-- **SLiMAgent: A Portable LLM Agent for Automating SLiM-Based Evolutionary Simulations**
-  H. V. Bhanot, Q. Guo, Y. Wang, C. Pan, H. Zhao, W. Wang. *In preparation*
+| | Paper | Venue |
+|:-:|:--|:--|
+| 📄 | **Running Large Language Models on Embedded Edge Devices: Challenges, Quantization Strategies, and Practical Deployment**<br/><sub>H. V. Bhanot</sub> | IEEE EdgeCom 2026<br/><sub>Accepted</sub> |
+| 📄 | **[Designing Agentic LLMs for Task Solving: A Multi-Agent Cybersecurity CTF Solver](https://doi.org/10.20944/preprints202609.1788.v1)**<br/><sub>H. V. Bhanot</sub> | Preprints.org 2026<br/><sub>Preprint, not peer reviewed</sub> |
+| 📝 | **SLiMAgent: A Portable LLM Agent for Automating SLiM-Based Evolutionary Simulations**<br/><sub>H. V. Bhanot, Q. Guo, Y. Wang, C. Pan, H. Zhao, W. Wang</sub> | In preparation |
 
----
+<br/>
 
-### Featured Work
+## Selected projects
 
-**[SLiMAgent](https://huggingface.co/hvbhanot)**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A fine-tuned Qwen3-Coder-30B-A3B-Instruct model (MoE, about 3B active parameters) for writing SLiM population-genetics simulations. Trained with QLoRA and Unsloth on 4,098 validated prompt-response pairs distilled from a frontier teacher model, with deduplication and decontamination pipelines. Evaluated with a producer and critic harness, an executability-based criterion, and a multi-pass automated repair loop. LoRA adapter and merged bf16 model are published on Hugging Face.
+### [SLiMAgent](https://huggingface.co/hvbhanot)
+Fine-tuned Qwen3-Coder-30B-A3B (MoE, ~3B active) that writes SLiM population-genetics simulations. QLoRA on 4,098 validated distilled pairs, evaluated by a producer-critic harness with a multi-pass repair loop.
 
-**[Cyber_agent](https://github.com/hvbhanot/Cyber_agent)**
+`QLoRA` `Unsloth` `Distillation` `MoE`
 
-A multi-agent system for autonomous Capture the Flag solving, built around a planner, five domain specialists, and a verifier that validates flags by provenance rather than by guessing. Runs on a ReAct control loop with tool orchestration and scratchpad memory. Solves 41 of 200 challenges (20.5 percent) on NYU CTF Bench.
+</td>
+<td width="50%" valign="top">
 
-**Professor Tux** 🏆 *Best Capstone Project Award, TAMU-CC*
+### [Cyber_agent](https://github.com/hvbhanot/Cyber_agent)
+Multi-agent CTF solver: a planner, five domain specialists, and a verifier that accepts flags by provenance, not guessing. ReAct loop with tool orchestration and scratchpad memory.
 
-An edge AI cybersecurity teaching assistant deployed on an NVIDIA Jetson Orin Nano. FastAPI and Ollama backend with a ChromaDB retrieval layer and pluggable teaching modes defined in markdown. Built with team TypeNull.
+**41 / 200 solved on NYU CTF Bench (20.5%)**
 
-**TorchPilot**
+`Multi-agent` `ReAct` `Security`
 
-An AutoML framework published on PyPI that automates model selection, hyperparameter search, and training-loop orchestration for PyTorch, cutting manual tuning effort across experiments.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Neural Network from Scratch**
+### Professor Tux
+Edge AI cybersecurity teaching assistant running fully on an NVIDIA Jetson Orin Nano, with RAG over course material and pluggable teaching modes.
 
-A multi-layer neural network written in pure NumPy with no frameworks, reaching 90 percent plus test accuracy using ReLU, softmax, and gradient descent.
+🏆 **Best Capstone Project Award, TAMU-CC**
 
----
+`Jetson` `FastAPI` `Ollama` `ChromaDB`
 
-### Experience
+</td>
+<td width="50%" valign="top">
 
-- **Section Leader**, Stanford Code in Place (Oct 2026 to present). Selected from 2,700 plus applicants; teaching a specialized section on probability for AI
-- **Undergraduate Research Assistant**, TAMU-CC (Nov 2025 to May 2026). Research on agentic LLMs, fine-tuning, and edge deployment
-- **Hardware Support Intern**, TAMU-CC IT (Jan 2024 to Nov 2025). Supported 3,000 plus students and faculty and improved ticket resolution workflows
-- **Student Brand Ambassador**, Intel (Dec 2024 to Aug 2025)
-- **AI and ML Intern**, DataEssenceAI, Houston TX (May 2024 to Aug 2024). Built PyTorch prediction models and tuned them for accuracy and training efficiency
-- **Founder and Vice President**, Islanders Research in AI, TAMU-CC. Started a campus AI research group and ran workshops for 30 plus members
+### TorchPilot
+AutoML framework for PyTorch, published on PyPI. Automates model selection, hyperparameter search, and training-loop orchestration.
 
----
+`AutoML` `PyTorch` `PyPI`
 
-### Education
+</td>
+</tr>
+</table>
 
-- **MS, Statistics** and **MS, Computer Science** (concurrent), Texas Tech University, Fall 2026 to present
-- **BS, Computer Science**, Texas A&M University-Corpus Christi
-  Concentration: Cybersecurity and Infrastructure. Minor: Applied Mathematics
+<details>
+<summary><b>More projects</b></summary>
+<br/>
 
----
+**Neural Network from Scratch** · Multi-layer network in pure NumPy (ReLU, softmax, gradient descent) reaching 90%+ test accuracy with no frameworks.
 
-### Tech Stack
+</details>
 
-**Languages**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+## Experience
 
-**AI, ML, and Statistics**
+| Role | Organization | Dates |
+|:--|:--|:--|
+| Section Leader | Stanford Code in Place | Oct 2026 to present |
+| Undergraduate Research Assistant | Texas A&M University-Corpus Christi | Nov 2025 to May 2026 |
+| Student Brand Ambassador | Intel | Dec 2024 to Aug 2025 |
+| AI/ML Intern | DataEssenceAI, Houston TX | May 2024 to Aug 2024 |
+| Hardware Support Intern | TAMU-CC IT | Jan 2024 to Nov 2025 |
+| Founder and Vice President | Islanders Research in AI | Previously |
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Unsloth](https://img.shields.io/badge/Unsloth_QLoRA-1F1F1F?style=flat-square&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<br/>
 
-**Systems, Serving, and Security**
+## Education
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-333333?style=flat-square&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Texas Tech University** · MS Statistics and MS Computer Science (concurrent), Fall 2026 to present<br/>
+**Texas A&M University-Corpus Christi** · BS Computer Science, Cybersecurity and Infrastructure concentration, Applied Mathematics minor
 
----
+<br/>
 
-### GitHub Stats
+## Stack
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hvbhanot&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="Streak Stats" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,go,java,pytorch,sklearn,opencv,linux,docker,git,fastapi,sqlite&perline=12" alt="Tech stack"/>
+</p>
 
----
-
-<div align="center">
-<i>Building systems end to end: data, training, evaluation, deployment.</i>
-</div>
+<sub>Also: Hugging Face Transformers · PEFT · Unsloth · Ollama · llama.cpp · ChromaDB · NumPy · Pandas · NVIDIA Jetson</sub>
